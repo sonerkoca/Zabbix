@@ -10,9 +10,13 @@
     <templates>
         <template>
             <uuid>b9c0d1e2f3a44b5c8d8e0f1a2b3c4d5e</uuid>
-            <template>FortiSwitch 1024E - Complete SNMP</template>
-            <name>FortiSwitch 1024E - Complete SNMP</name>
-            <description>Clean FortiSwitch Complete SNMP Template with updated LLDP OIDs</description>
+            <template>Fortinet Switch Complete SNMP</template>
+            <name>Fortinet Switch Complete SNMP</name>
+            <description>Fortinet Switch SNMP Template</description>
+            <vendor>
+                <name>Soner KOCA</name>
+                <version>7.0-0</version>
+            </vendor>
             <groups>
                 <group>
                     <name>Templates/Network devices</name>
